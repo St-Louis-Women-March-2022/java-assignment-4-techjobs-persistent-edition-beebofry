@@ -1,8 +1,8 @@
 -- Part 1: Test it with SQL
-    -- id INT(11)
-    -- employer VARCHAR(255)
-    -- name VARCHAR(255)
-    -- skills VARCHAR(255)
+    -- id INT
+    -- employer VARCHAR
+    -- name VARCHAR
+    -- skills VARCHAR
 
 -- Part 2: Test it with SQL
 
